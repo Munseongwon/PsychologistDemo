@@ -21,3 +21,6 @@
 #### AVD Output
 
 <img src="FinishScreen.png" alt="Emulator App Screen" width="1280px" height="500px">
+
+#### 시연 영상
+https://youtu.be/7LGNT13y_5U
