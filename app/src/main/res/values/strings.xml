@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinBasicApp</string>
+    <string name="main_title">Let’s find out\nyour love type!</string>
+    <string name="question">꽃받침에는 좋아하는 꽃들이 있었습니다.\n시간이 지나면서, 꽃들은 모두 시들해졌습니다.\n당신은 그것을 가지고 무엇을 할 건가요?</string>
+</resources>
