@@ -1,8 +1,8 @@
 # PsychologistDemo
 
 ## Android Jetpack Navigation 
-
-
+![Langauge:Kotlin](https://img.shields.io/badge/Language-Kotlin-pink) ![platform:Android](https://img.shields.io/badge/Platform-Android-blue)
+> 2023.08.16 - 2023.08.17   
 
 
 - NavHost 
